@@ -8,6 +8,7 @@ from nltk.tokenize import word_tokenize
 # Download stopwords
 nltk.download('stopwords')
 nltk.download('punkt')
+nltk.download('punkt_tab')
 
 # Load model and vectorizer
 with open("logistic_model.pkl", "rb") as model_file:
