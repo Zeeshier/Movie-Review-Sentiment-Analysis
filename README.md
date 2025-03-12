@@ -46,6 +46,7 @@ This project focuses on analyzing **sentiment** in movie reviews using machine l
   - Feature extraction using TF-IDF
   - Model training & evaluation
   - Saving the best accuracy trained model for deployment
+
 Run it with:
 ```bash
 jupyter notebook movie-review-sentiment-analysis.ipynb
